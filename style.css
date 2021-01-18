@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://static.lpnt.fr/images/2018/12/01/17637540lpw-17637558-article-jpg_5772598_660x281.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.nger2 {
+    height: 780px;
+    width: 540px;
+    background-color: red;
+    font-family: sans-serif;
+    border-radius: 0.8cm;
+}
+
+.nger22 {
+    margin-left: 1.5cm;
+}
+.ha11 {
+    text-align: center;
+    padding: 1cm;
+}
+div {
+    margin: 1.4cm;
+}
